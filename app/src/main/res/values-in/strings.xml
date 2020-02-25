@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="tab_text_mv">Film</string>
+    <string name="tab_text_tv">Acara TV</string>
+    <string name="content_mv_home">Halaman Daftar Film</string>
+    <string name="content_tv_home">Halaman Daftar Acara TV</string>
+
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <string name="movies_name">Nama Film</string>
+    <string name="description">DESKRIPSI</string>
+    <string name="dummy_value">Nama Film</string>
+    <string name="content_text">Deksripsi Film </string>
+    <string name="fav_menu">Menu Favorit</string>
+
+    <string name="content_tab_mvfav">Halaman Favorit Film</string>
+    <string name="content_tab_tvfav">Halaman Acara TV Favorit</string>
+    <string name="tab_text_mvfav">Film Kesukaan</string>
+    <string name="tab_text_tvfav">Acara TV Kesukaan</string>
+
+    <string name="favorite">Kesukaan</string>
+    <string name="delete">Hapus</string>
+    <string name="search">Cari data</string>
+    <string name="search1">Cari Film</string>
+    <string name="search2">Cari Acara TV</string>
+
+    <string name="appwidget_text">BANNER FAVORIT</string>
+    <string name="empty_text">NO DATA</string>
+    <string name="reminder">Pengaturan Notifikasi</string>
+
+    <string name="daily_reminder">Pengingat Harian</string>
+    <string name="daily_reminder_info">Notifikasi untuk kembali ke Aplikasi Movie </string>
+    <string name="release_reminder">Pengingat Rilis Film</string>
+    <string name="release_reminder_info"> Notifikasi film yang rilis hari ini</string>
+    <string name="alarm_time">Pengingat Setiap Hari</string>
+    <string name="alarm_message">Pesan Alarm</string>
+    <string name="daily">Setiap Hari</string>
+    <string name="release">Diterbitkan</string>
+
+
+
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:iconSpaceReserved="false">
+
+    <SwitchPreference
+        android:key="@string/daily"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:summary="@string/daily_reminder_info"
+        android:title="@string/daily_reminder"
+        app:iconSpaceReserved="false" />
+    <SwitchPreference
+        android:key="@string/release"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:summary="@string/release_reminder_info"
+        android:title="@string/release_reminder"
+        app:iconSpaceReserved="false" />
+
+
+</PreferenceScreen>

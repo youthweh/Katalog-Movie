@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="tab_text_mv">Movie</string>
+    <string name="tab_text_tv">Tv Shows</string>
+    <string name="content_mv_home">Movie Page</string>
+    <string name="content_tv_home">TV Show Page</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="movies_name">Movies Name</string>
+    <string name="description">DESCRIPTION</string>
+    <string name="dummy_value">Movie Name</string>
+    <string name="content_text">Movie Description </string>
+    <string name="fav_menu">Favorite Menu</string>
+
+    <string name="tab_text_mvfav">Movie Favorite</string>
+    <string name="tab_text_tvfav">Tv Favorite</string>
+    <string name="content_tab_mvfav">Movie Favorite Page</string>
+    <string name="content_tab_tvfav">Tv Shows Favorite Page</string>
+
+    <string name="favorite">Favorite</string>
+    <string name="delete">Delete</string>
+    <string name="search">Search data</string>
+    <string name="search1">Search Movie</string>
+    <string name="search2">Search TvShow</string>
+    <string name="appwidget_text">FAVORITE BANNER</string>
+    <string name="empty_text">NO DATA</string>
+    <string name="reminder">Reminder Settings</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="daily_reminder_info">Remainder for return to app</string>
+    <string name="release_reminder">Release Remainder</string>
+    <string name="release_reminder_info">Reminder showing the movie that released today</string>
+    <string name="alarm_time">Repeating time daily</string>
+    <string name="alarm_message">Repeating Time Message</string>
+    <string name="daily">daily</string>
+    <string name="release">release</string>
+
+
+</resources>

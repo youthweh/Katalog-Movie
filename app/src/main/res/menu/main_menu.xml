@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/favorite_menu"
+        android:icon="@drawable/ic_favorite_click"
+        android:title="@string/fav_menu"
+        app:showAsAction="collapseActionView|ifRoom"/>
+
+    <group android:menuCategory="container">
+        <item
+            android:id="@+id/action_change_settings"
+            android:title="@string/change_language_settings"
+            app:showAsAction="never"/>
+        <item
+            android:id="@+id/search_movie"
+            android:title="@string/search1"
+            app:showAsAction="withText"/>
+        <item
+            android:id="@+id/search_tvshow"
+            android:title="@string/search2"
+            app:showAsAction="withText"/>
+        <item
+            android:id="@+id/reminder_menu"
+            android:title="@string/reminder"
+            app:showAsAction="never"/>
+    </group>
+</menu>
