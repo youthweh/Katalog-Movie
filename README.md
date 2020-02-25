@@ -51,7 +51,8 @@ Terdapat halaman pengaturan untuk mengaktifkan dan menonaktifkan reminder.
 ## Aplikasi Katalog Film
 Syarat:
 Membuat aplikasi atau modul baru yang menampilkan daftar film favorite.
-Menggunakan Content Provider sebagai mekanisme untuk mengakses data dari satu aplikasi ke aplikasi lain.
+Menggunakan Content Provider sebagai mekanisme untuk mengakses data dari satu aplikasi ke aplikasi lain, yaitu
+ke aplikasi Konsumernya di https://github.com/youthweh/Aplikasi-Konsumer-Katalog-Movie.
 
 ### Author
 _Fiona Stefani Limin_
