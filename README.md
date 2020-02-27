@@ -18,7 +18,7 @@ Aplikasi Movie Catalogue (Local Storage) dengan menambahkan beberapa fitur:
 * Detail Film
     * Syarat: 
         * Menampilkan poster dan informasi film pada halaman detail film. 
-        * Menggunakan ```  Parcelable ```  sebagai interfaces dari obyek yang akan dikirimkan antar ```  Activity  ``` atau ```  Fragment ``` .
+        * Menggunakan ```  Parcelable ```  sebagai interfaces dari obyek yang akan dikirimkan antar ```  Activity  ``` atau ```  Fragment ``` 
         * Menggunakan ``` ConstraintLayout ``` untuk menyusun layout.   
         * Menampilkan indikator loading ketika data sedang dimuat. 
 
