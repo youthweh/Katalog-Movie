@@ -1,7 +1,6 @@
 # Katalog Movie 
  Aplikasi Katalog Movie dengan beberapa fitur
-
-Project ini dibuat untuk menjadi salah satu syarat kelulusan pada kelas Dicoding (Menjadi Android Developer Expert). 
+ 
  
 ## Fitur Aplikasi
 
